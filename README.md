@@ -42,7 +42,11 @@ The pipeline is organized into four primary stages:
 
   [![Complete Workflow](images/RW_CatsWorkflow_Full.jpg)](https://app.runwayml.com/video-tools/teams/trapezy/ai-tools/workflows/c8999c3f-55c1-49a3-8d44-129cf54d7a05/edit)
 
-<p align="center"><strong>Click to view complete workflow</strong></p>
+<p align="center">
+<strong>Full Interactive Workflow:</strong><br>
+Click to view in Runway
+</a>
+</p>
 
 ---
 
