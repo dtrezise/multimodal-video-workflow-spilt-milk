@@ -40,6 +40,10 @@ The pipeline is organized into four primary stages:
 3. Sequence-based video generation
 4. Editorial assembly and finishing
 
+![Overview](images/RW_CatsWorkflow_Full.jpg)
+
+[![Watch the film](images/RW_CatsWorkflow_Full.jpg)](https://app.runwayml.com/video-tools/teams/trapezy/ai-tools/workflows/c8999c3f-55c1-49a3-8d44-129cf54d7a05/edit)
+
 ---
 
 ## Environment Development
@@ -92,7 +96,7 @@ Introduces a new object (glass of milk) which redirects character attention and 
 
 ### Sequence 03 — Escalation
 
-![Sequence 03](images/RW_CatsWorkflow_Seq_03.jp)
+![Sequence 03](images/RW_CatsWorkflow_Seq_03.jpg)
 
 Adds additional characters (kittens), increasing interaction complexity and motion within the scene.
 
@@ -100,7 +104,7 @@ Adds additional characters (kittens), increasing interaction complexity and moti
 
 ### Sequence 04 — Climax
 
-![Sequence 04](images/RW_CatsWorkflow_Seq_04.png)
+![Sequence 04](images/RW_CatsWorkflow_Seq_04.jpg)
 
 The interaction culminates in a milk spill event, serving as the narrative payoff while maintaining continuity across motion-heavy shots.
 
