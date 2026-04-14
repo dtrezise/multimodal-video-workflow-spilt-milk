@@ -167,8 +167,12 @@ Each shot was designed with a specific role in the sequence, and the final edit 
 /audio       # AI-generated music (Suno)
 ```
 
-Full Interactive Workflow:</n>
-<https://app.runwayml.com/video-tools/teams/trapezy/ai-tools/workflows/c8999c3f-55c1-49a3-8d44-129cf54d7a05/edit)>
+<p align="center">
+<strong>Full Interactive Workflow:</strong><br>
+<a href="https://app.runwayml.com/video-tools/teams/trapezy/ai-tools/workflows/c8999c3f-55c1-49a3-8d44-129cf54d7a05/edit">
+Click to view in Runway
+</a>
+</p>
 
 ```
 
