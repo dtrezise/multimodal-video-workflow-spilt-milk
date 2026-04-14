@@ -24,7 +24,7 @@ The focus of this work is not individual outputs, but the design of a system tha
 
 ## Final Output
 
-* 🎬 **Film:** https://www.youtube.com/watch?v=BKqU0lPYF0Q
+* 🎬 **Film:** [https://www.youtube.com/watch?v=BKqU0lPYF0Q](https://www.youtube.com/watch?v=BKqU0lPYF0Q)
 * 🎧 **Music (Suno):** [`/audio/Spilt Milk Love.mp3`](audio/SpiltMilkLove.mp3)
 
 > Tip: If the filename changes, update the link above to match the file in `/audio/`.
@@ -44,7 +44,7 @@ The pipeline is organized into four primary stages:
 
 ## Environment Development
 
-![Environment](images/RW_CatsWorkflow_Env.png)
+![Environment](images/RW_CatsWorkflow_Env.jpg)
 
 A base kitchen environment was generated and treated as a persistent world space. Multiple variations and camera angles were derived from this foundation while preserving lighting, layout, and overall composition.
 
@@ -54,7 +54,7 @@ This step establishes spatial continuity and provides a stable backdrop for all 
 
 ## Character System
 
-![Characters](images/RW_CatsWorkflow_Chars.png)
+![Characters](images/RW_CatsWorkflow_Chars.jpg)
 
 A selection process was used to identify “hero” adult cats from a larger set of generated candidates. These selections were then used as the basis for generating kitten variations, ensuring visual consistency and believable relationships between characters.
 
@@ -64,7 +64,7 @@ This approach avoids randomness and instead creates a controlled character pipel
 
 ## Scene Initialization
 
-![Scene Start](images/RW_CatsWorkflow_Start.png)
+![Scene Start](images/RW_CatsWorkflow_Start.jpg)
 
 The initial scene establishes the baseline composition, spatial relationships, and staging for the film. Characters are placed within the environment and serve as the anchor point for all downstream sequences.
 
@@ -76,7 +76,7 @@ The narrative is built across four sequences, each consisting of five short shot
 
 ### Sequence 01 — Establishment
 
-![Sequence 01](images/RW_CatsWorkflow_Seq_01.png)
+![Sequence 01](images/RW_CatsWorkflow_Seq_01.jpg)
 
 Introduces the environment and primary characters. Establishes tone, pacing, and baseline behavior.
 
@@ -84,7 +84,7 @@ Introduces the environment and primary characters. Establishes tone, pacing, and
 
 ### Sequence 02 — Trigger Event
 
-![Sequence 02](images/RW_CatsWorkflow_Seq_02.png)
+![Sequence 02](images/RW_CatsWorkflow_Seq_02.jpg)
 
 Introduces a new object (glass of milk) which redirects character attention and initiates narrative movement.
 
@@ -92,7 +92,7 @@ Introduces a new object (glass of milk) which redirects character attention and 
 
 ### Sequence 03 — Escalation
 
-![Sequence 03](images/RW_CatsWorkflow_Seq_03.png)
+![Sequence 03](images/RW_CatsWorkflow_Seq_03.jp)
 
 Adds additional characters (kittens), increasing interaction complexity and motion within the scene.
 
@@ -163,8 +163,17 @@ Each shot was designed with a specific role in the sequence, and the final edit 
 /audio       # AI-generated music (Suno)
 ```
 
+/images      # workflow diagrams and references
+/video       # final output or links
+/audio       # AI-generated music (Suno)
+/workflow    # exported graphs or pipeline references (optional)
+
+```
+
 ---
 
 ## Notes
 
 This project is intended as a case study in applying AI tools to a production-oriented workflow, demonstrating how generative systems can be used to construct coherent, multi-shot narratives.
+
+```
