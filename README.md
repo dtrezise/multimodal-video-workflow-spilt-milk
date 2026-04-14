@@ -40,15 +40,9 @@ The pipeline is organized into four primary stages:
 3. Sequence-based video generation
 4. Editorial assembly and finishing
 
-<div align="center">
-
-<a href="YOUR_WORKFLOW_LINK_HERE">
   [![Complete Workflow](images/RW_CatsWorkflow_Full.jpg)](https://app.runwayml.com/video-tools/teams/trapezy/ai-tools/workflows/c8999c3f-55c1-49a3-8d44-129cf54d7a05/edit)
-</a>
 
-<p><em>Click to view complete workflow</em></p>
-
-</div>
+<p><strong>Click to view complete workflow</strong></p>
 
 ---
 
