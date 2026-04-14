@@ -42,7 +42,7 @@ The pipeline is organized into four primary stages:
 
   [![Complete Workflow](images/RW_CatsWorkflow_Full.jpg)](https://app.runwayml.com/video-tools/teams/trapezy/ai-tools/workflows/c8999c3f-55c1-49a3-8d44-129cf54d7a05/edit)
 
-<p><strong>Click to view complete workflow</strong></p>
+<p align="center"><strong>Click to view complete workflow</strong></p>
 
 ---
 
@@ -98,7 +98,7 @@ Introduces a new object (glass of milk) which redirects character attention and 
 
 ![Sequence 03](images/RW_CatsWorkflow_Seq_03.jpg)
 
-Adds additional characters (kittens), increasing interaction complexity and motion within the scene.
+Increasing interaction complexity and motion within the scene as the cats wrestle and knock over the glass of milk.
 
 ---
 
@@ -106,7 +106,7 @@ Adds additional characters (kittens), increasing interaction complexity and moti
 
 ![Sequence 04](images/RW_CatsWorkflow_Seq_04.jpg)
 
-The interaction culminates in a milk spill event, serving as the narrative payoff while maintaining continuity across motion-heavy shots.
+Introducing the new kitten characters to drink the spilt milk, serving as the narrative payoff while maintaining continuity across motion-heavy shots.
 
 ---
 
